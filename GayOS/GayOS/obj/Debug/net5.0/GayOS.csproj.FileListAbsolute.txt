@@ -1,0 +1,12 @@
+C:\Users\Diego\source\repos\GayOS\GayOS\bin\Debug\net5.0\GayOS.deps.json
+C:\Users\Diego\source\repos\GayOS\GayOS\bin\Debug\net5.0\GayOS.dll
+C:\Users\Diego\source\repos\GayOS\GayOS\bin\Debug\net5.0\ref\GayOS.dll
+C:\Users\Diego\source\repos\GayOS\GayOS\bin\Debug\net5.0\GayOS.pdb
+C:\Users\Diego\source\repos\GayOS\GayOS\obj\Debug\net5.0\GayOS.csproj.AssemblyReference.cache
+C:\Users\Diego\source\repos\GayOS\GayOS\obj\Debug\net5.0\GayOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\source\repos\GayOS\GayOS\obj\Debug\net5.0\GayOS.AssemblyInfoInputs.cache
+C:\Users\Diego\source\repos\GayOS\GayOS\obj\Debug\net5.0\GayOS.AssemblyInfo.cs
+C:\Users\Diego\source\repos\GayOS\GayOS\obj\Debug\net5.0\GayOS.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\GayOS\GayOS\obj\Debug\net5.0\GayOS.dll
+C:\Users\Diego\source\repos\GayOS\GayOS\obj\Debug\net5.0\ref\GayOS.dll
+C:\Users\Diego\source\repos\GayOS\GayOS\obj\Debug\net5.0\GayOS.pdb
